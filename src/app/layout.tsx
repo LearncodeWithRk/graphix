@@ -19,7 +19,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" className={dmSans.variable}>
-      <body className="grid bg-[#070815] text-white">
+      <body className="grid bg-[#021526] text-white">
         <Header />
         <main>{children}</main>
         <Footer />
